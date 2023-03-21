@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi , I'm Dinie </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<img src="https://github.com/DinieHazim/DinieHazim/raw/main/images/DINIE%20HAZIM.gif">
+
 <br>
 
 ![GitHub Follow](https://img.shields.io/github/followers/DinieHazim.svg?style=social&label=Follow)
@@ -11,7 +13,10 @@
 
 <br>
 
-- 
+- Currently a full time student at Universiti Teknologi Malaysia in Bachelor of Computer Science (Data Engineering)
+- I like to listen to music in my free time
+- I am from Kota Tinggi, Johor, Malaysia
+- Kindly reach me if you are interested about me
 
 <br><br>
 
@@ -31,7 +36,18 @@
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+    ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
+<br>
+	
+- **Visualization Tools**:
+
+    ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+    ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+    
 <br>
 
 - **Cloud Hosting**:
@@ -46,6 +62,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 <br>
 <br>
@@ -83,7 +100,7 @@
 <ul>
 
 <li>
-<a href="(https://www.linkedin.com/in/dinie-hazim-52770514b/)" target="_blank">
+<a href="https://www.linkedin.com/in/dinie-hazim-52770514b/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  DinieHazim-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
